@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+*.pyc
+data/raw/
+models/*.keras
+reports/*.json
+reports/figures/*.png
